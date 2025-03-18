@@ -1,2 +1,2 @@
-# Amigo-secreto
-<h1> Estado del proyecto: terminado</h1>
+<h1> Estado del proyecto:</h1>
+<h2> Terminado</h2>
